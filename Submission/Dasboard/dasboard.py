@@ -1,3 +1,6 @@
+import pandas as pd
+import seaborn as sns
+import streamlit as st
 # Load cleaned data
 def load_data():
     day_df = pd.read_csv("day_bersih.csv")
