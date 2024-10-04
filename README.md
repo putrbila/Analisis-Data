@@ -3,10 +3,11 @@
 ---
 
 preview
-![alt text](<Screenshot (3545).png>)
+
 grafik tersebut menunjukkan bahwa jumlah total rental diantara musim Spring dan Fall yang tertinggi adalah musim fall
 
-![alt text](<Screenshot (3570).png>)
+![Screenshot (3570)](https://github.com/user-attachments/assets/72daa6f7-301d-412a-aca3-411bd5b8218e)
+)
 grafik tersebut menunjukkan bahwa jumlah total rental dari keseluruhan season yang paling tinggi adalah musim fall
 
 ## Setup Environment - Anaconda
