@@ -1,4 +1,3 @@
-sns.set(style='dark')
 # Load cleaned data
 def load_data():
     day_df = pd.read_csv("day_bersih.csv")
